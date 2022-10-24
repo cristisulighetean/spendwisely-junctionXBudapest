@@ -1,8 +1,14 @@
 # Spend Wisely - JunctionX Budapest
 
-In this JunctionX hackathon we tried to solve the 'Wise' challenge by implementing a "wise" budgeting mode for travelers who often go out.
+In this JunctionX hackathon we tried to solve the 'Wise' challenge by implementing a "wise" budgeting mode for people who either go out or often travel.
 
 When using the Spend Wise mode, you set a budget, timespan and we will help you with sticking to the budget by making you aware of the current spending throughout the day.
+
+You will be able to configure widgets which show your current spending during the trip or a beer jug filling when going out. Addtionaly, there will be push notifications informing you when you spent half of your budget and when you are about to hit the budget limit.
+
+In case you hit the budget limit, you are then asked on every purchase if you really want to confirm the purchase considering the budget limit. 
+
+In the case of the going out mode, there is the possibility to add a puzzle when trying to do a purchase. If the user is able to solve it, then he/she might be aware (and sober) of his purchases.
 
 Final [Figma prototype](https://www.figma.com/proto/aMTnCvA6jXVJZUsvuZxKwW/Spend-Wisely?node-id=5%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2)
  and [Demo video](https://youtu.be/6vJy6s0z-S4)
