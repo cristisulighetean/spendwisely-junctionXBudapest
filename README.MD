@@ -12,6 +12,8 @@ In the case of the going out mode, there is the possibility to add a puzzle when
 
 Final [Figma prototype](https://www.figma.com/proto/aMTnCvA6jXVJZUsvuZxKwW/Spend-Wisely?node-id=5%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2)
  and [Demo video](https://youtu.be/6vJy6s0z-S4)
+ 
+## Concept details
 
 ### Short description:
 
